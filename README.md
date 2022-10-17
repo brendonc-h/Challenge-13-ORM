@@ -1,12 +1,7 @@
 <div id="top"></div>
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_brendonc-h/Challenge-13">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+Challenge-13-ORM
 
 <h3 align="center">project_title</h3>
 
@@ -53,8 +48,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
 
