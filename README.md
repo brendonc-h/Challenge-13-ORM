@@ -5,22 +5,6 @@ Challenge-13-ORM
 
 <h3 align="center">project_title</h3>
 
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_brendonc-h/Challenge-13"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_brendonc-h/Challenge-13">View Demo</a>
-    ·
-    <a href="https://github.com/github_brendonc-h/Challenge-13/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_brendonc-h/Challenge-13/issues">Request Feature</a>
-  </p>
-</div>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
