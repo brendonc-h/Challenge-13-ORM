@@ -100,7 +100,7 @@ SO THAT my company can compete with other e-commerce companies
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Brendon Curry-Hobbs - brendon1798@gmail.com
 
 Project Link: [https://github.com/github_brendonc-h/Challenge-13-ORM](https://github.com/github_brendonc-h/Challenge-13-ORM)
 Video Link: [https://drive.google.com/file/d/1ORrtz6lphb5SjXqE-OhQh6TBfSaGUnx6/view](https://drive.google.com/file/d/1ORrtz6lphb5SjXqE-OhQh6TBfSaGUnx6/view)
