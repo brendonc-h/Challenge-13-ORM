@@ -91,7 +91,7 @@ AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -103,5 +103,5 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
 Project Link: [https://github.com/github_brendonc-h/Challenge-13](https://github.com/github_brendonc-h/Challenge-13)
-
+Video Link: [https://drive.google.com/file/d/1ORrtz6lphb5SjXqE-OhQh6TBfSaGUnx6/view](https://drive.google.com/file/d/1ORrtz6lphb5SjXqE-OhQh6TBfSaGUnx6/view)
 <p align="right">(<a href="#top">back to top</a>)</p>
