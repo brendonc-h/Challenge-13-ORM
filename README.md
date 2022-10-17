@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">Challenge-13-ORM</h3>
+<h3 align="center">-ORM-ORM</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -69,7 +69,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_brendonc-h/Challenge-13.git
+   git clone https://github.com/github_brendonc-h/-ORM.git
    ```
 2. Install NPM packages
    ```sh
@@ -102,6 +102,6 @@ SO THAT my company can compete with other e-commerce companies
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_brendonc-h/Challenge-13](https://github.com/github_brendonc-h/Challenge-13)
+Project Link: [https://github.com/github_brendonc-h/Challenge-13-ORM](https://github.com/github_brendonc-h/Challenge-13-ORM)
 Video Link: [https://drive.google.com/file/d/1ORrtz6lphb5SjXqE-OhQh6TBfSaGUnx6/view](https://drive.google.com/file/d/1ORrtz6lphb5SjXqE-OhQh6TBfSaGUnx6/view)
 <p align="right">(<a href="#top">back to top</a>)</p>
