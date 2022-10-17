@@ -102,6 +102,6 @@ SO THAT my company can compete with other e-commerce companies
 
 Brendon Curry-Hobbs - brendon1798@gmail.com
 
-Project Link: [https://github.com/github_brendonc-h/Challenge-13-ORM](https://github.com/github_brendonc-h/Challenge-13-ORM)
+Project Link: [https://github.com/brendonc-h/Challenge-13-ORM](https://github.com/brendonc-h/Challenge-13-ORM)
 Video Link: [https://drive.google.com/file/d/1ORrtz6lphb5SjXqE-OhQh6TBfSaGUnx6/view](https://drive.google.com/file/d/1ORrtz6lphb5SjXqE-OhQh6TBfSaGUnx6/view)
 <p align="right">(<a href="#top">back to top</a>)</p>
