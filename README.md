@@ -41,14 +41,11 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![dotenv][Dotenv]][Dotenv-url]
+* [![Express][Express.js]][Express-url]
+* [![Mysql2][Mysql2]][Mysql2-url]
+* [![Sequelize][Sequelize]][Sequelize-url]
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
