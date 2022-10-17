@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const { Category, Product } = require('../../models');
 
-// The `/api/categories` endpoint
+// The `/api/categories` endpoint for thunderclient
 
 router.get('/', (req, res) => {
   // find all categories
@@ -26,20 +26,24 @@ router.get('/:id', (req, res) => {
   .catch((err) => res.status(400).json(err));
 });
 
-router.post('/', (req, res) => {
-  // create a new category
-  Category.create(req,body, {
-    where: {
-      id: req.params.id,
-    },
-  })
-  .then((category) => res.status(200).json(category))
-  .catch((err) => res.status(400).json(err));
-});
+router.post('/', async (req, res) => {
+  // creating new category
+  try {
+    const categoryNew = await Category.create(req.body); 
+    res.status(200).json(categoryNew);
+  } catch (err) {
+    res.status(400).json(err);
+  }
+  });
+ 
 
 router.put('/:id', (req, res) => {
-  // update a category by its `id` value
-  Category.update(req.body, {
+  Category.update(
+  {
+    id:req.body,
+    category_name: req.body.category_name, 
+  },
+  {
     where: {
       id: req.params.id,
     },
